@@ -13,3 +13,5 @@ npm start
 ```
 
 Observe the console output
+
+![screenshot](./docs/screenshot.png)
