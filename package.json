@@ -1,0 +1,16 @@
+{
+  "name": "demo-jsonwebtoken-payload-callback",
+  "version": "1.0.0",
+  "main": "src/index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "georgejmx",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "jsonwebtoken": "file:../node-jsonwebtoken"
+  }
+}
